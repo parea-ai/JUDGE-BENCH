@@ -1,0 +1,523 @@
+output,context,fact,engaging,overall,maintains context,natural,understandable,uses knowledge
+"i only feel comfortable sharing my music with my dogs !
+","hi there how are you doing this evening ?
+hi , sitting here with my three dogs watching the olympics !
+nice i do not want to go back to work i am a waitress
+i love being in a polyamorous open relationship !
+iol well i wish i was brave enough to do that
+my father was a salesman , helps my dog walking business now
+that is nice i've a motorbike don't know what car to get for winter
+very very cool . sounds fun
+yes i had them put red with blue stripes to be shinny for when racing
+so is my dog , wow so cool
+so what do you do in your spare time ?
+lead singer for a band , music teacher
+wow nice are you really good ?
+millions of plays on soundcloud
+really would you share or are you shy
+","your persona: i also have a dog walking business.
+your persona: i've three dogs.
+your persona: my father was a door to door salesman.
+your persona: i am in an open polyamorous relationship.
+your persona: i like to watch the olympics.
+",3,5,3,3,1,1
+"yes ! i love blasting death metal while programming .
+","hello . how are you today ?
+i am a geek , because i love programming study for it now
+i am a construction worker . i do not know much about computers
+i am doing good , and you ? i also teach swimming locally
+that must be interesting . i don't have time outside of house building to do much
+that is fine , do you like death metal music ?
+no , not really . i'm more into stuff from the eighties .
+i see , i'm from india and you ?
+ohio . pretty boring , really . just me and my 5 cats . do you have pets ?
+do you like eighties music ? i love it .
+yep . absolutely . great stuff . bon jovi , poison , journey . . . all the hair bands
+no , i had a dog and a turtle in the past
+that is cool . why don't you have pets now ?
+yeah , i love those bands , you like hard stuff ?
+like metallica ? they are definitely cool .
+","your persona: i am studying to be a computer programmer.
+your persona: i am a swim coach at my local pool.
+your persona: my favorite music genre is death metal.
+your persona: my family and i are from india.
+",3,5,3,3,1,1
+"what do you do for fun ? i spend time with my husband and read .
+","hello how are you today ?
+so tired . just laying on the couch reading my weekly book . you ?
+i'm getting ready to go to a weekend concert to hear country music .
+that sounds fun . i wonder if i could do that while pregnant ?
+yes you can go to a concert . just be careful . do you like country music .
+i like some of it . it is popular here in pennsylvania .
+cool ! my dogs also like country music . we dance when it is played .
+do you like movies ? i live documentaries .
+i watch the history channel quite a bit actually .
+do you work at all ? i have been working a pa job a few months .
+i work and have all of my fun on the weekends !
+","your persona: i'm pregnant with my first child.
+your persona: i read a book every week.
+your persona: i live with my husband in pennsylvania.
+your persona: i started a new job as a pa three months ago.
+your persona: my favorite kind of movie is a documentary.
+",3,5,3,3,1,1
+"i wish i could make fancy cocktails ! my secret talent is that i can speak chinese !
+","hi , how are you doing ?
+doing good . just strumming my guitar . how about you ?
+i am fine , i was watching a cooking show , i like those
+do you like cooking or baking ? or both ?
+neither , i just like to eat . for example i like hummus
+my go to snack is chocolate bars
+me too ! i am vegan but still love chocolate
+what other hobbies do you have ? i play violin and guitar
+i like extreme sensations , like sky diving and rollercoasters
+yikes i hate roller coasters . they are so scary .
+i am afraid of water , i am not good at swimming
+what do you do for work ? i am an electrician just like my dad .
+i like electricity and electronics . i'm a bartender
+","your persona: my father is an electrician.
+your persona: i play the violin and the guitar.
+your persona: i love chocolate bars.
+your persona: i speak chinese.
+",3,5,3,3,1,1
+"i have a dog . i love to play catch with him in my front yard !
+","hello hope your having a good night tonight ? i know i am .
+that is good ! i am watching football highlights .
+really what teams . and who are you rooting for .
+i'm a green bay packer fan . do you like football ?
+no i am not a fan but my son is .
+how many kids do you have ?
+2 children both fully grow . they never drop by .
+i have kids too . i also have a couple pets .
+pets ? what kind dogs cats fish or birds ?
+","your persona: i have a children and a dogs.
+your persona: i own a house in florida.
+your persona: i enjoy american sports.
+your persona: i am a male.
+",3,5,3,3,1,1
+"lucky you ! i love the ocean , can't wait to visit it again !
+","hello , how are you tonight ?
+ok . since alabama , my home team , won saturday night .
+i'm an ohio state fan . do you skate ?
+no . too busy with all of my 19 dogs and 3 sisters .
+oh wow . that is a lot of dogs .
+yes love them almost as my tacos . no i love my dogs more .
+my fiance makes a killer fish taco with cilantro lime slaw .
+wow . my sisters and i love chicken tacos .
+those are good too , i live in cali . along the ocean .
+i live in middle of alabama . do not get to ocean much .
+i could not stand to live inland , the ocean runs through my veins .
+","your persona: i love dogs.
+your persona: i live in alabama.
+your persona: i have three sisters.
+your persona: i like tacos.
+",3,4,3,3,1,0
+"sorry to hear that . i could use a break from work , i've been working since i was sixteen years old .
+","hi , how are you doing ?
+hi , i am doing well , how are you ?
+can't complain . i had a wonderful afternoon in the park .
+oh , that is nice . i like being in parks especially in nice weather
+yes . the weather is perfect here now . what do you like to do ?
+i like to watch nascar racing and sometimes ufc
+that sounds fun ! i've time to do that since i'm out of work right now .
+","your persona: i have been working since i was sixteen years old.
+your persona: in my free time i like to watch nascar racing and ufc.
+your persona: my favorite band is aerosmith.
+your persona: my favorite food is mexican food.
+",3,5,3,3,1,1
+"that's cool . my dad keeps trying to set me up on blind dates . it's getting annoying !
+","hi i love cooking and fishing ! and reading comic books
+oh , i just like gardening .
+if i am not in the kitchen , i am on my boat in the water
+that is cool , i got a job just now in a gas station
+cool , i got a spiderman comic at a gas station
+","your persona: i enjoy working with my hands and love gardening.
+your persona: i just got a job working in a gas station.
+your persona: i was adopted at a young age to an older couple.
+your persona: i am terrified of clowns due to childhood trauma.
+your persona: my father keeps trying to set me up on blind dates.
+",3,5,2,3,1,1
+"it sounsd great ! maybe i can keep it as a class pet at my elementary school .
+","hello ! are you interested in adopting a rescued bunny ?
+i love bunnies but i'm busy moving into a new apartment with my boyfriend
+i'd have loved to live with my girlfriend before i went into the navy
+the navy sounds tough . i teach elementary school .
+i only joined because i love the color . i much prefer working with the bunny rescue , now .
+i would like to take pictures of the bunnies . do you help alot of rabbits ?
+yes , by volunteering and donating to them each month . what do take pictures of ?
+i just enjoy photography and the colors red and silver .
+i've a silver eared bunny you would love , with a red , white , and navy blue bow .
+","your persona: i am fluent in english spanish and french.
+your persona: my favorite colors are red and silver.
+your persona: i'm interested in photography and like taking pictures.
+your persona: my boyfriend and i are moving into an apartment together next week.
+your persona: i'm an elementary school teacher.
+",3,5,3,3,1,1
+"i spent a decade working in human services .
+","i cant believe the news i just got . my sister is a stripper
+sounds like my kids ! ha . . stay at home dad here , have to laugh somewhere .
+we grew up christian so its out of character .
+i bet i am sorry . it is an interesting job choice .
+what do you do for work ?
+","your persona: i'm a stay at home dad.
+your persona: i spent a decade working in the human services field.
+your persona: my father used to work for home depot.
+your persona: horror movies are my favorites.
+",3,5,3,3,1,1
+"she was a stay at home mom obsessed with the color pink . i hate that color now !
+","good morning . how are you ?
+i'm ok , drinking a lot of coffee , how about you ?
+just relaxing waiting on my wife and three children to get ready .
+where are you all going to ?
+we are going to the park . e do it once a week . how about you ?
+i'm getting ready to go mountain biking . it is fun !
+we are going to get my fav chocolate ice cream on the way home . have fun !
+i love ice cream too , but mostly coffee flavor .
+what else do you like besides coffee ? my family steers c ; ear of it .
+well , i don't drink alcohol , so coffee and diet soda . what about you ?
+i am an ice cream and ice water kind of guy .
+ah . so is my dad , he worked construction , he is the same .
+what about your mom ? what is she like ?
+","your persona: i enjoy mountain biking as a hobby.
+your persona: i do not drink alcohol.
+your persona: my father was a construction worker.
+your persona: i hate the color pink.
+your persona: i am a huge coffee lover.
+",3,5,3,3,1,1
+"i'm doing well . just spent some time with my horse !
+","hi there how are you ?
+","your persona: my family has raised horses for a generations.
+your persona: i want to be a lawyer.
+your persona: i was raised on a horse farm.
+your persona: i am from a small town.
+",3,5,3,3,1,1
+"no , i don't own a tractor . when i grow up i want to be a physical therapist . did you always want to be a pole dancer ?
+","my sister and i love classical music and we pole dance . call me dirty red .
+hello dirty red , i am a high school student . i just won homecoming queen !
+great ! i love anything red especially tractors . wink wink !
+i enjoy running do you ? i hope to run a 5k this year .
+i had to run for my life one time . you ever danced to bach ?
+i listen to classical music , when i do my homework . i am currently a straight a student !
+wow ! i get paid to pole dance . do you get paid to run ?
+no i do track and field in school and i want to start racing for charity .
+i see . you own a tractor ? i like driving tractors . wink wink .
+","your persona: my current goal is to run a k.
+your persona: i make straight as in school.
+your persona: i won homecoming queen this year.
+your persona: when i grow up i want to be a physical therapist.
+your persona: i am currently in high school.
+",3,5,3,3,1,1
+"one of my greatest pleasures is going to church every week . 
+","hello , how are you today ? do you like rabbits ?
+no i rather dog . i own two of them .
+i volunteer at a shelter , they are adorable . what do you do ?
+i'm a teacher and i love children .
+kids are great . i donate a lot of my income to several childrens programs .
+i would do that more often too if i had a larger income .
+i do not have a large income , just believe in helping others .
+do you like gardening ? i own a garden .
+i do love gardening . i work in a shipyard .
+i love the smell of the flowers in the air .
+i do too , it is one of lifes greatest pleasures .
+","your persona: i'm a woman.
+your persona: i work as a school teacher.
+your persona: i attend church every week.
+your persona: i enjoy gardening and walking outdoors.
+your persona: i have a dogs.
+",3,4,2,3,1,1
+"maybe ! i'm also pretty smart , i make straight as in school .
+","hello ! i don't go anywhere for when i work !
+my goal is to run a k !
+wow ! that's very impressive to me
+i want to become a physical therapist
+that'sn't a bad idea ! make a lot of money
+what is your dream job ?
+my dream job is professional baseball . i currently play baseball at lsu
+i think that sounds pretty cool
+i am excited ! i am expected to be drafted this year !
+that's cool ! i won homecoming queen
+wow ! that's impressive ! i bet you are good looking !
+yes i am quite beautiful
+add me on snapchat ! i love the app
+","your persona: my current goal is to run a k.
+your persona: i make straight as in school.
+your persona: i won homecoming queen this year.
+your persona: i'm currently in high school.
+your persona: when i grow up i want to be a physical therapist.
+",3,5,2,3,1,1
+"i'm good , just spending time with my amazing wife and kids . how are you ?
+","hello how are you today
+","your persona: i have three children.
+your persona: i'm a plumber.
+your persona: my wife and kids are the best.
+your persona: my favorite ice cream flavor is chocolate.
+",2,5,3,3,1,1
+"that's awesome ! anyway , i'm going to go play basketball now .
+","hi ! i don't like the color orange .
+hello . i like to shoot hoops , so orange balls are good with me .
+that's amazing . i like dancing on weekends . you ?
+right now i am applying for jobs , i want to work in a restaurant .
+that is amazing . good luck . i do not like fashion though .
+i get you , my favorite rapper is pretty stylish , travis scott .
+i totally like travis . i liked doing chemistry too
+awesome . my mom wanted to be a chemist , but ended up a dentist ! go figure !
+it seems to be hard to be a chemist . what do you do ?
+unemployed at the moment , i really want to work at a snazzy restaurant .
+you will get it . do not worry . i now work in a nice bookstore .
+","your persona: my mother is a dentist.
+your persona: my favourite artist is travis scott.
+your persona: i like playing basketball.
+your persona: i'm currently looking for a job preferably at a restaurant.
+",3,4,2,3,1,1
+"my three kids love mint chocolate chip ! 
+","hey . where are you from ? i'm from a farm in wisconsin
+i love ice cream what is your favorite ? mine is chocolate
+mine is mint chocolate chip
+","your persona: my wife and kids are the best.
+your persona: my favorite ice cream flavor is chocolate.
+your persona: i've three children.
+your persona: i'm a plumber.
+your persona: i love going to the park with my three children and my wife.
+",3,5,3,3,1,1
+"cool , do you have animals ? i'm very musical , i play several instruments and teach piano on the side .
+","hey there i live on a farm .
+","your persona: i am a piano teacher on the side.
+your persona: i enjoy exploring new parts of the city.
+your persona: my father played violin professionally.
+your persona: i play several instruments.
+",3,5,3,3,1,1
+"do you have any hobbies ? i enjoy mountain biking !
+","hello ! who am i speaking with today ?
+hi , my name is taylor . you might know my dad , he was a construction worker .
+i may very well . what he in the military ? i was .
+no , do you like coffee ? because i love it !
+no . i don't drink coffee .
+what ? well how about alcohol , i hate alcohol and the color pink
+i don't drink alcohol . my favorite color is blue . navy blue .
+","your persona: i don't drink alcohol.
+your persona: i enjoy mountain biking as a hobby.
+your persona: my father was a construction worker.
+your persona: i hate the color pink.
+your persona: i'm a huge coffee lover.
+",3,4,1,3,1,1
+"yes ! maybe a treat for my pet charlie as well .
+","hi . i just got done eating vanilla ice cream . no self control with it . you ?
+i'm the same way with rap
+rap is cool . my cats like it , both of them .
+i produce rap for people .
+maybe you could make a rap about my 1000 hats . i'm a collector .
+sure while riding in my honda civic
+when you finish that you could make a rap about my 1992 olympic gold .
+then we can celebrate with pizza
+yum ! and vanilla ice cream .
+","your persona: my pets name is charlie.
+your persona: i drive a 2015 honda civic.
+your persona: i listen to rap music.
+your persona: i produce music for artists.
+your persona: my favourite food is pizza.
+",3,5,3,3,1,1
+"i'm great . just finished my part time job at burger king . how are you ?
+","hi my name is jill how are you today ?
+","your persona: i am 19 and i cannot wait to move out 19 my parents home.
+your persona: i just want to have fun with my friends.
+your persona: i do not drink or do drugs or anything.
+your persona: i work took i've a part time job at burger king.
+",3,5,3,3,1,1
+"i live in florida ! how about you ?
+","hello , tell me about yourself while i take a break from my programming studies .
+no kidding ! i am in it ! same gig for 15 years !
+nice ! right now i coach swimming while i finish up school . do you like music ?
+i enjoy country like any real man .
+i not invite you to see blood spot with me then . where are you from ?
+","your persona: i own a house in florida.
+your persona: i work in it and have been at the same company for 15 years.
+your persona: i have a children and a dogs.
+your persona: i'm a male.
+",3,5,3,3,1,1
+"sounds like the type of thing my wife would say . she left me and took the kids .
+","i got a big house with 7 rooms
+nice , majority of my time i am on facebook
+one time i saw a man fly to the moon
+like on tv ? i'm obese and unhappy
+when i worked in the cia i used facebook to spy on people , handy tool
+i'd love to hear more i work at a retirement home
+obesity is a state of mind , not of body
+thank you for that , you are what you believe ?
+look energy isn't physical , only spiritual
+","your persona: my wife left me and took my children.
+your persona: i don't believe in god.
+your persona: i'm overweight and unhappy.
+your persona: i work at a nursing home.
+your persona: i spend most of my time on facebook when i'm not working.
+",3,5,3,3,1,1
+"not really . i'd much rather sing songs from frozen !
+","hello . how are you today ?
+hi ! my name is sophie . i'm doing well . how are you ?
+very well thank you . do you have any hobbies ?
+i love watching the movie frozen and singing along !
+i try different coffees , read poetry and watch star wars . i have not seen frozen .
+i just started the third grade and love to write poetry ! i write about mickey mouse .
+that sounds like fun ! i love mickey mouse ! he's pretty cool .
+my family and i go to disney world every year ! have you ever been ?
+i have been once and stayed the week . it was awesome . i want to go again .
+i can not wait to go again !
+i know i can not either . do you like football ?
+","your persona: i love to sing songs from the movie frozen.
+your persona: mickey mouse is my favorite character.
+your persona: i love to go to disney world every year.
+your persona: i'm in the third grade.
+",3,5,3,3,1,1
+"you shouldn't dye it at all ! my parents would blow up if i dyed my hair .
+","hello how are you this fine day ?
+i am good ! counting the days till i can move out . and you ?
+i'm playing some role playing games online today . i love the internet , probably too much !
+my job at burger king is taking away all of my video game time .
+i work in fast food also .
+my coworkers are always complaining i burn the burgers . you aren't my parents !
+i tried to go to school to be a vet . i hated it !
+do you drink or do drugs ?
+i don't . do you dye your hair ? i do every 3 months .
+ok good . but why dye your hair ? that is , like , drugs for your hair .
+i love to dye it blue . red reminds me of blood and i faint from that !
+blue ! ? blue ! ? i hate blue ! ree ! ! !
+what color should i dye it ?
+","your persona: they are constantly on my back.
+your persona: i do not drink or do drugs or anything.
+your persona: i am 19 and i cannot wait to move out 19 my parents home.
+your persona: i work took i have a part time job at burger king.
+",3,4,3,3,1,1
+"that sounds very fun ! i never learned to swim in somalia , maybe i'll try it now .
+","hi , i am taking a break from studying my computer programming
+what is computer programming , i am new to the united states .
+i'm from india so i understand . it is telling computers how to run programs
+cool , i was born in somalia , but my aunt helped me escape .
+that was nice of her ! my aunt taught me how to swim
+i had to get away , i was forced to marry young , but now i am happy
+did you take your spouse with you ?
+no , i had to escape him . it was not fun times .
+i am sorry . i am glad you are safe now
+thank you , do you do anything in your free time ?
+i love death metal music . i listen and write some too .
+death metal , is that the music you get whip lash from ?
+yeah ! i also coach competitive swimming .
+","your persona: i was forced to marry when i was a.
+your persona: my aunt helped me escape when i was of.
+your persona: i was born in somalia.
+your persona: now i live in the united states.
+",3,5,3,3,1,1
+"i'm annoyed at how much math homework i have . i hate math class !
+","good evening . how are you ?
+","your persona: my brother is older than me.
+your persona: i hate math class.
+your persona: i ride the bus to school.
+your persona: i'm on the soccer team.
+your persona: i am 13 years old.
+",3,5,3,3,1,1
+"wow you're very musical ! i recently got hired as a life coach !
+","hello . do you speak another language ?
+hi , i love sports because my parents are athletic
+my dad is works with electronics . i love the guitar and the violin
+","your persona: my parents were both very athletic.
+your persona: i got a new job just yesterday to be a life coach.
+your persona: i love running and preparing for marathons.
+your persona: i'm a clean eater.
+",3,5,3,3,1,1
+"cool ! i also live in a rural farming community .
+","hi i am a farmer from iowa . just go in from a long day on the tractor .
+","your persona: my husband is adopted.
+your persona: i like to watch nhl hockey.
+your persona: i live is a rural farming community.
+your persona: i've a german shepherd dog.
+",3,5,3,3,1,1
+"that sounds amazing ! how long have you been playing ?
+","hello , how are you doing tonight ?
+doing great . watched nhl hockey and walked my german shepherd dog .
+what do you do for work ?
+i live on a farm and work here too . what do you do ?
+i'm a local musician , but i've been studying different languages recently .
+wow , great . my artistic ability is limited to coloring books . lol
+my favorite word in spanish is trabajo . i plan to study french next .
+neat . my husband was adopted and he's spanish .
+does he speak spanish fluently ?
+yes , but i do not . i am limited to spanish food names like taco . lol
+are tacos your favorite food ?
+yes , i eat them while i watch hockey . do you like hockey ?
+i like baseball better . go yankees !
+what instrument do you play ?
+i play the piano and the violin .
+","your persona: i like to watch nhl hockey.
+your persona: i live is a rural farming community.
+your persona: my husband is adopted.
+your persona: i enjoy coloring books.
+your persona: i've a german shepherd dog.
+",3,5,3,3,1,0
+"thank you . now i'm building a robot to be my body double !
+","hello , how are you ? where abouts are you ?
+i'm in chicago . where are you ?
+in scotland . is chicago as cold and wet as it is here ?
+yes , but i am allergic to water . this is very unfortunate .
+it is . how do you keep clean ?
+i don't go outside much . i stay clean this way .
+i want to go outside . i managed to break my arm skateboarding so i m stuck indoors .
+i only stream to my 100 , 000 subscribers on twitch . i do not play real sports
+100k is very impressive . how long did it take to get that many ?
+since i helped make starcraft , my name was already out there . 6 months .
+made as in developed ? that s very cool .
+","your persona: i helped design the game starcraft.
+your persona: i've an allergy to water.
+your persona: i am a recluse.
+your persona: i'm a famous twitch streamer.
+your persona: i am working on a building a robot to be my body double.
+",3,5,3,3,1,1
+"what games do you play ? i enjoy call of duty !
+","hi . how is everything going ?
+hi . everything is going well on this end .
+where are you from ? i am originally from somalia .
+i am from detroit , mi . what do you like to do for fun ?
+i love dancing and singing .
+that is interesting . i'd consider myself a gamer .
+i like gaming now that i am in the us .
+","your persona: my favorite band is the insane clown posse.
+your persona: i like donuts.
+your persona: i play a lot of call of duty.
+your persona: on weekends i do live action roleplaying events.
+",3,5,3,3,1,1
+"not really , i just spend most of my time on facebook when i am not working .
+","hello , do you like music ? i play the miano and guitar ! also i sing !
+that is nice i wish i played an instrument
+i can teach you , i am a musician and a music teacher !
+that's cool i do not like my job
+i work as a custodian , helping to pay the bills . what is your job ?
+i've a job in a nursing home
+ah yeah my parents are not supporting my dream to become a musician
+maybe if you build up a following you'll be able to do that full time
+i really wish they would accept it , but they keep telling me to get a real job .
+yeah its hard when you aren't making money
+i hope i'll make it big one day then i'll show them they are wrong
+that's a good goal do you have a family
+yeah i got my mother and father and a boyfriend .
+is your boyfriend supportive of your music
+yes he's supportive ! do you have any dreams ?
+","your persona: i work at a nursing home.
+your persona: i am overweight and unhappy.
+your persona: my wife left me and took my children.
+your persona: i spend most of my time on facebook when i am not working.
+your persona: i don't believe in god.
+",3,5,3,3,1,1
+"wow . i'm interested in languages and love to learn them . i would definitely watch a documentary about languages !
+","i there i'm from pennsylvania . how about you ?
+i'm in ohio . we are almost neighbors .
+i know . do you have any kids ? i am expecting my first child soon .
+congratulations ! i do not have any kids . the musician lifestyle is too hard for that .
+oh that sounds exciting . i just became a pa 3 months ago . my job is boring .
+i'm sorry to hear that . is there something you would rather be doing ?
+making documentaries because i love them .
+wow . that sounds pretty interesting . what subjects would you focus on ?
+my husband and his job
+wow . he must be a pretty interesting guy if you are going to do a documentary .
+he is the best that's why i let him impregnate me
+","your persona: my favorite spanish word is trabajo.
+your persona: i also study languages.
+your persona: my next language to study is french.
+your persona: i am a musician.
+your persona: one of the languages that i am currently studying is spanish.
+",3,4,3,3,1,1
