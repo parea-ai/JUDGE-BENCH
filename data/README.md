@@ -1,8 +1,18 @@
-# Data format
+# Reproducing aligned, self-improving LLM evals results
+
+You can reproduce the results of the announcement of [aligned, self-improving LLM evals in Parea](https://docs.parea.ai/blog/self-improving-llm-evals) by following these steps: 
+
+1. Create CSV-files of annotations: execute `convert_to_annotations.py` in the respective folder (e.g. `./cola`) to create `annotations-train.csv`
+2. Use `annotation-train.csv` to bootstrap LLM eval ([docs](https://docs.parea.ai/manual-review/bootstrapped-eval))
+3. Use the created eval to test alignment on `annotation-test.csv`
+
+# Original Judge Bench repository
+
+## Data format
 
 For now, we're keeping each crowdsourced dataset in a separate JSON file that follows the JSON schema in [schema.json](https://github.com/coli-saar/llm-meta-evaluation/blob/main/data/schema.json). You can check your own JSON file against the schema using e.g. [check-jsonschema](https://github.com/python-jsonschema/check-jsonschema).
 
-## Overall file structure
+### Overall file structure
 
 The dataset is structured as follows:
 
@@ -12,20 +22,20 @@ The dataset is structured as follows:
 - `instances`: Lists the instances for which we collected human judgments. In each instance, the `instance` field contains the sentence/text that was annotated, and `annotations` contains the annotations for each annotation category - both the mean of the human judgments and the list of scores that the individual humans gave.
 
 
-## Types of variables and aggregation method
+### Types of variables and aggregation method
 
 The annotations were divided into 3 main types, which are specified within the `category` field:
 - `continuous`: Annotations that could be expressed with any value within a given range. These were aggregated with an arithmetic mean 
 - `graded`: Annotations that could be expressed with a fixed set of values within a given range (e.g., 0 for "ungrammatical", 1 for "poorly formed", ..., 5 for "fully grammatical"). These were aggregated with an arithmetic mean
 - `categorical`: Annotations with binary labels (e.g., True or False) or labels referring to non-ordered taxonomies (e.g. 1 for "swearing", 2 for "insult", 3 for "sexism", etc.). These annotations were aggregated by majority vote
 
-## Prompts
+### Prompts
 
 The `prompt` field in the `annotations` declarations is a free text that describes what should be annotated. This can initially be the literal text that we showed to the human crowdworkers, but perhaps it can over time be replaced by better prompts that are specific to an LLM. 
 
 The evaluation script should interpret the `prompt` field as a string with placeholders. For now, I (Alexander) have assumed that it will be evaluated as a [jinja](https://palletsprojects.com/p/jinja/) template, with the `instance` variable assigned the value of the `instance` field of each test instance. Thus, all occurrences of the string `{{ instance }}` will be replaced by the actual sentences/texts that were annotated. Of course, we could change this.
 
-## Licenses
+### Licenses
 Please find an overview of the licenses for each dataset in the table below.
 
 | Dataset            | License                  |
