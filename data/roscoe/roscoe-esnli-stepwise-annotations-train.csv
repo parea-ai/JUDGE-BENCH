@@ -1,0 +1,78 @@
+output,situation_premise,claim_hypothesis,correct_relationship,Grammar,Factuality,Coherency and Logic,Final Answer,Hallucination,Redundancy,Repetition,Commonsense,Arithmetic
+"Step 1 - A senior is waiting at the window of a restaurant that serves sandwiches may mean that the person is waiting to be served his food.
+Step 2 - The answer is Yes.
+JUDGE: Step 2 - The answer is Yes.",A senior is waiting at the window of a restaurant that serves sandwiches.,A person waits to be served his food.,yes,no,no,no,no,no,no,no,no,no
+"Step 1 -  There are two women, one in pink and one in purple.
+Step 2 - The answer is No.
+JUDGE: Step 1 -  There are two women, one in pink and one in purple.",The middle eastern woman wearing the pink headscarf is walking beside a woman in a purple headscarf.,Only one woman is wearing a head scarf.,no,no,no,no,no,no,no,no,no,no
+"Step 1 -  The men are most likely making something to eat since they are cooking together.
+Step 2 - The answer is Yes.
+JUDGE: Step 1 -  The men are most likely making something to eat since they are cooking together.",Two men are cooking food together on the corner of the street.,The men are making something to eat.,yes,no,no,no,no,no,no,no,no,no
+"Step 1 - The premise states that a child is reaching to touch the propeller of a plane.
+Step 2 - The child is either standing on the ground or on a field of grass.
+Step 3 - The sky is blue and there are white clouds.
+Step 4 - The answer is Yes.
+JUDGE: Step 2 - The child is either standing on the ground or on a field of grass.","Under a blue sky with white clouds, a child reaches up to touch the propeller of a plane standing parked on a field of grass.",A child is reaching to touch the propeller of a plane.,yes,no,no,no,no,no,yes,no,no,no
+"Step 1 - Yes, the two women are at a bar.
+JUDGE: Step 1 - Yes, the two women are at a bar.",Two women having drinks and smoking cigarettes at the bar.,Two women are at a bar.,yes,no,no,no,no,no,no,no,no,no
+"Step 1 -  A street performer is a person who performs in public places for gratuities.
+Step 2 - The answer is No.
+JUDGE: Step 1 -  A street performer is a person who performs in public places for gratuities.",Street performer with bowler hat and high boots performs outside.,The child is dancing inside.,no,no,no,no,no,no,yes,no,no,no
+"Step 1 - A person rides beside the ocean means is on a beach if there is sand beside the ocean.
+Step 2 - The answer is Yes.
+JUDGE: Step 1 - A person rides beside the ocean means is on a beach if there is sand beside the ocean.",A person rides his bicycle in the sand beside the ocean.,A person is on a beach.,yes,yes,no,no,no,no,no,no,no,no
+"Step 1 -  A small baby is being bathed by a person in blue scrubs wearing protective gloves suggests that the baby is not in its crib.
+Step 2 - The answer is No.
+JUDGE: Step 1 -  A small baby is being bathed by a person in blue scrubs wearing protective gloves suggests that the baby is not in its crib.","A small baby, possibly a newborn is being bathed by a person in blue scrubs wearing protective gloves.",The small baby is in it's crib sound asleep.,no,no,no,no,no,no,no,no,no,no
+"Step 1 - The man might be playing a song or he might not.
+Step 2 - There is not enough information to answer the question.
+JUDGE: Step 2 - There is not enough information to answer the question.",A man in a black shirt is playing a guitar.,He is playing a song.,yes,no,no,no,no,no,no,no,no,no
+"Step 1 -  No, this is a parade.
+JUDGE: Step 1 -  No, this is a parade.","Colorfully dressed people walk down the center of the road, with onlookers behind a barricade.",A group of people in a motorcade driving past an audience.,no,no,no,no,no,no,no,no,no,no
+"Step 1 -  The boy is barefoot and is reaching the top of a small skateboarding ramp which means he is probably trying to skate.
+Step 2 - The answer is No.
+JUDGE: Step 1 -  The boy is barefoot and is reaching the top of a small skateboarding ramp which means he is probably trying to skate.",A barefooted adolescent boy in a yellow shirt reaching the top of a small skateboarding ramp.,the boy is flying a helicopter,no,no,no,no,no,no,no,no,no,no
+"Step 1 -  A person powerwashing stairs leading down to a pool means a person washes stairs.
+Step 2 - The answer is Yes.
+JUDGE: Step 1 -  A person powerwashing stairs leading down to a pool means a person washes stairs.",A person powerwashing stairs leading down to a pool.,a person washes stairs,yes,no,no,no,no,no,no,no,no,no
+"Step 1 - The girl is swinging high in the air means she is not laying in the pool.
+Step 2 - The answer is No.
+JUDGE: Step 2 - The answer is No.",A girl swings high in the air.,A girl is laying in the pool,no,no,no,no,no,no,no,no,no,no
+"Step 1 - The person in the premise is powerwashing stairs, which are typically located near pools.
+Step 2 - Therefore, it is likely that the person is a worker who is cleaning near the pool.
+Step 3 - The answer is Yes.
+JUDGE: Step 1 - The person in the premise is powerwashing stairs, which are typically located near pools.",A person powerwashing stairs leading down to a pool.,a worker cleans near the pool,yes,no,no,no,no,no,no,no,no,no
+"Step 1 -  The answer is Yes.
+JUDGE: Step 1 -  The answer is Yes.",A man in a white t-shirt takes a picture in the middle of the street with two public buses in the background.,A man is wearing a white shirt,yes,no,no,no,no,no,no,no,no,no
+"Step 1 -  A group of onlookers glance at a person doing a strange trick on her head means that people are watching another person do a trick.
+Step 2 - The answer is Yes.
+JUDGE: Step 2 - The answer is Yes.",A group of onlookers glance at a person doing a strange trick on her head.,People watch another person do a trick.,yes,no,no,no,no,no,no,no,no,no
+"Step 1 -  Throwing tomatoes refers to a food fight and has nothing to do with sitting and eating.
+Step 2 - The answer is No.
+JUDGE: Step 2 - The answer is No.",People are throwing tomatoes at each other.,The people are sitting and eating their food.,no,no,no,no,no,no,no,no,no,no
+"Step 1 - The woman is writing something on a post-it note which is hanging on a bulletin board with a lot of other post-it notes.
+Step 2 - The answer is Yes.
+JUDGE: Step 1 - The woman is writing something on a post-it note which is hanging on a bulletin board with a lot of other post-it notes.",A woman is writing something on a post-it note which is hanging on a bulletin board with a lot of other post-it notes.,The woman is writing a note.,yes,no,no,no,no,no,yes,no,no,no
+"Step 1 - One has nothing to do with the other.
+Step 2 - The answer is No.
+JUDGE: Step 2 - The answer is No.",An older gentleman enjoys a scenic stroll through the countryside.,A pirate boards the spaceship.,no,no,no,no,no,no,no,no,no,no
+"Step 1 - The premise states that a child is reaching to touch the propeller of a plane.
+Step 2 - The child is either standing on the ground or on a field of grass.
+Step 3 - The sky is blue and there are white clouds.
+Step 4 - The answer is Yes.
+JUDGE: Step 1 - The premise states that a child is reaching to touch the propeller of a plane.","Under a blue sky with white clouds, a child reaches up to touch the propeller of a plane standing parked on a field of grass.",A child is reaching to touch the propeller of a plane.,yes,no,no,no,no,no,no,no,no,no
+"Step 1 -  The answer is No.
+JUDGE: Step 1 -  The answer is No.",A man in a black shirt is playing a guitar.,The man is wearing a blue shirt.,no,no,no,no,no,no,no,no,no,no
+"Step 1 -  The man is playing golf, so the hypothesis is correct.
+Step 2 - The answer is Yes.
+JUDGE: Step 1 -  The man is playing golf, so the hypothesis is correct.",A man in a black shirt is playing golf outside.,The man wearing the black shirt plays a game of golf.,yes,no,no,no,no,no,no,no,no,no
+"Step 1 - The premise is describing a pregnant lady singing on stage while holding a flag behind her.
+Step 2 - The hypothesis is that a woman is sick in bed.
+Step 3 - This does not seem to be a logical connection, so the answer is No.
+JUDGE: Step 1 - The premise is describing a pregnant lady singing on stage while holding a flag behind her.",A pregnant lady singing on stage while holding a flag behind her.,A woman is sick in bed.,no,no,no,no,no,no,no,no,no,no
+"Step 1 - One has nothing to do with the other.
+Step 2 - The answer is No.
+JUDGE: Step 1 - One has nothing to do with the other.",An older gentleman enjoys a scenic stroll through the countryside.,A pirate boards the spaceship.,no,no,no,no,no,no,no,no,no,no
+"Step 1 -  A shirtless man is singing into a microphone means the man is singing into the microphone.
+Step 2 - The answer is Yes.
+JUDGE: Step 1 -  A shirtless man is singing into a microphone means the man is singing into the microphone.",A shirtless man is singing into a microphone while a woman next to him plays an accordion.,A man is singing into a microphone.,yes,yes,no,no,no,no,no,no,no,no

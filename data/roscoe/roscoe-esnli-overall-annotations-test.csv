@@ -1,0 +1,354 @@
+output,situation_premise,claim_hypothesis,correct_relationship,Overall Quality,Coherency,Missing Steps,Contradiction
+"Step 1 -  This is a man is sitting on the steps outside and reading a magazine.
+Step 2 - The answer is Yes.
+Judge the generated response:","A man wearing sunglasses is sitting on the steps outside, reading a magazine.",The man is sitting.,yes,5,5,no,no
+"Step 1 - The image just shows a young boy in a field of flowers carrying a ball.
+Step 2 - There is no dog in sight, so the answer is No.
+Judge the generated response:",A young boy in a field of flowers carrying a ball,dog in pool,no,4,5,no,no
+"Step 1 -  A person powerwashing stairs leading down to a pool means that they are cleaning the stairs.
+Step 2 - A dog chasing a cat has nothing to do with this premise.
+Step 3 - The answer is No.
+Judge the generated response:",A person powerwashing stairs leading down to a pool.,a dog chases a cat,no,5,5,no,no
+"Step 1 - The person in the premise is powerwashing stairs, which are typically located near pools.
+Step 2 - Therefore, it is likely that the person is a worker who is cleaning near the pool.
+Step 3 - The answer is Yes.
+Judge the generated response:",A person powerwashing stairs leading down to a pool.,a worker cleans near the pool,yes,4,5,no,no
+"Step 1 -  The answer is No.
+Judge the generated response:",A man waterskies with a life jacket.,Hitler rides a jetski in this Kawasaki advertisement.,no,3,5,yes,no
+"Step 1 -  A white dog with long hair is not swimming underwater, so the answer is no.
+Judge the generated response:",A white dog with long hair jumps to catch a red and green toy.,A white dog with long hair is swimming underwater.,no,5,5,no,no
+"Step 1 - The woman is sitting still and is not jumping, so the answer is No.
+Judge the generated response:","A woman sitting outside weaving a long piece of red, white, and blue cloth.",He is jumping over a house,no,5,5,no,no
+"Step 1 - The woman is writing something on a post-it note which is hanging on a bulletin board with a lot of other post-it notes.
+Step 2 - The answer is Yes.
+Judge the generated response:",A woman is writing something on a post-it note which is hanging on a bulletin board with a lot of other post-it notes.,The woman is writing a note.,yes,4,5,yes,no
+"Step 1 - The premise does not provide enough information to answer the question.
+Judge the generated response:",Women and children sitting outside in the shade while a group of younger children sitting inside in the shade.,The woman is running.,no,2,5,yes,no
+"Step 1 - A person rides beside the ocean means is on a beach if there is sand beside the ocean.
+Step 2 - The answer is Yes.
+Judge the generated response:",A person rides his bicycle in the sand beside the ocean.,A person is on a beach.,yes,3,5,no,no
+"Step 1 -  There are two women, one in pink and one in purple.
+Step 2 - The answer is No.
+Judge the generated response:",The middle eastern woman wearing the pink headscarf is walking beside a woman in a purple headscarf.,Only one woman is wearing a head scarf.,no,5,5,no,no
+"Step 1 - The woman is doing a cartwheel while wearing a bikini in the sand next to the beach.
+Step 2 - This means that she is most likely on the beach.
+Step 3 - The answer is Yes.
+Judge the generated response:",A woman is doing a cartwheel while wearing a bikini in the sand next to the beach.,A woman is doing a cartwheel.,yes,4,5,no,no
+"Step 1 -  The man is playing golf, so the hypothesis is correct.
+Step 2 - The answer is Yes.
+Judge the generated response:",A man in a black shirt is playing golf outside.,The man wearing the black shirt plays a game of golf.,yes,5,5,no,no
+"Step 1 - The answer is No.
+Judge the generated response:",A man in a blue shirt standing in front of a garage-like structure painted with geometric designs.,A man is wearing a black shirt,no,4,5,yes,no
+"Step 1 - There is no information in the premise that would suggest that the restaurant is bad.
+Step 2 - The answer is No.
+Judge the generated response:",Families waiting in line at an amusement park for their turn to ride.,The restaurant is very bad.,no,5,5,no,no
+"Step 1 - The premise only talks about a man running a marathon and does not mention anything about canoeing down a river.
+Step 2 - The answer is No.
+Judge the generated response:",A man running a marathon talks to his friend.,There are people canoeing down a river.,no,5,5,no,no
+"Step 1 - The answer is No.
+Judge the generated response:",Two men playing baseball with the one in the black and red jersey running toward base.,The man in black and red is sitting in the bleachers.,no,3,5,yes,no
+"Step 1 -  The answer is Yes.
+Judge the generated response:","A small baby, possibly a newborn is being bathed by a person in blue scrubs wearing protective gloves.",Someone is helping bathe the small baby.,yes,3,5,yes,no
+"Step 1 - The premise is describing a pregnant lady singing on stage while holding a flag behind her.
+Step 2 - The hypothesis is that a woman is sick in bed.
+Step 3 - This does not seem to be a logical connection, so the answer is No.
+Judge the generated response:",A pregnant lady singing on stage while holding a flag behind her.,A woman is sick in bed.,no,5,5,no,no
+"Step 1 - There is no evidence in the premise that the woman is asleep.
+Step 2 - The answer is No.
+Judge the generated response:",A lady with bright orange hair walking in a crowd.,The woman is asleep.,no,5,5,no,no
+"Step 1 -  Two surgeons having lunch means that they are not performing surgery on a patient.
+Step 2 - The answer is No.
+Judge the generated response:",Two doctors perform surgery on patient.,Two surgeons are having lunch.,no,5,5,no,no
+"Step 1 - A person cannot ride his bicycle on a boat, so the answer is No.
+Judge the generated response:",A person rides his bicycle in the sand beside the ocean.,A person is on a boat.,no,5,5,no,no
+"Step 1 - Yes, the two women are at a bar.
+Judge the generated response:",Two women having drinks and smoking cigarettes at the bar.,Two women are at a bar.,yes,5,5,no,no
+"Step 1 -  A man is wandering in the desert if he is lost in the desert.
+Step 2 - The answer is Yes.
+Judge the generated response:",A man wandering in the desert as the clouds roll in.,A man wonders in the desert.,yes,4,5,no,no
+"Step 1 -  A small ice cream stand with two people standing near it means that two people are outside an ice cream stand.
+Step 2 - The answer is yes.
+Judge the generated response:",A small ice cream stand with two people standing near it.,Two people standing outside an ice cream stand.,yes,5,5,no,no
+"Step 1 - The boy in the picture is barefooted, so the answer is Yes.
+Judge the generated response:",A barefooted adolescent boy in a yellow shirt reaching the top of a small skateboarding ramp.,a boy is barefooted,yes,5,5,no,no
+"Step 1 -  A young boy is a child.
+Step 2 - The answer is Yes.
+Judge the generated response:",A young boy playing in the grass.,There is a child in the grass.,yes,5,5,no,no
+"Step 1 -  The baby is at the end of the slip and slide, which would typically be found at a party.
+Step 2 - The answer is Yes.
+Judge the generated response:",A baby at the end of a slip and slide at a party,There is a party,yes,4,5,no,no
+"Step 1 -  A man in the middle with a corn-on-the-cob cart selling corn means he is selling corn, not throwing it.
+Step 2 - The answer is No.
+Judge the generated response:",A man in the middle east with a corn-on-the-cob cart selling corn.,A middle east man is throwing corn at strangers.,no,5,5,no,no
+"Step 1 - Yes, doctors are performing surgery.
+Judge the generated response:",Two doctors perform surgery on patient.,Doctors are performing surgery.,yes,5,5,no,no
+"Step 1 - A senior is waiting at the window of a restaurant that serves sandwiches may mean that the person is waiting to be served his food.
+Step 2 - The answer is Yes.
+Judge the generated response:",A senior is waiting at the window of a restaurant that serves sandwiches.,A person waits to be served his food.,yes,5,5,no,no
+"Step 1 - The premise states that two men are competing in a race.
+Step 2 - This implies that they are both riding bikes.
+Step 3 - Therefore, the hypothesis that people are riding bikes is correct.
+Judge the generated response:",Two men on bicycles competing in a race.,People are riding bikes.,yes,4,5,no,no
+"Step 1 -  Number 916 is a player on a baseball team.
+Step 2 - The answer is No.
+Judge the generated response:",Number 916 is hoping that he is going to win the race.,A person is is playing baseball.,no,3,5,no,yes
+"Step 1 - The child is playing with the propeller of a plane.
+Step 2 - The answer is No.
+Judge the generated response:","Under a blue sky with white clouds, a child reaches up to touch the propeller of a plane standing parked on a field of grass.",A child is playing with a ball.,no,5,5,no,no
+"Step 1 - The girl is playing with colorful letters on the floor, which would typically happen in a living room or a bedroom, not in a bathtub.
+Step 2 - Therefore, the answer is No.
+Judge the generated response:",Girl plays with colorful letters on the floor.,The girl is playing a video game in the bath.,no,3,4,no,no
+"Step 1 -  The answer is Yes.
+Judge the generated response:",A man in a white t-shirt takes a picture in the middle of the street with two public buses in the background.,A man is wearing a white shirt,yes,4,5,yes,no
+"Step 1 -  A baby is at the end of the slip and slide.
+Step 2 - The answer is No.
+Judge the generated response:",A baby at the end of a slip and slide at a party,The man is at the end of the slip and slide,no,4,5,yes,no
+"Step 1 - The premise only states that there are two women at the bar, so the answer is No.
+Judge the generated response:",Two women having drinks and smoking cigarettes at the bar.,Three women are at a bar.,no,5,5,no,no
+"Step 1 - The woman is on the phone, but we cannot assume that she is talking on the phone based on the information given.
+Step 2 - The answer is No.
+Judge the generated response:",A woman is talking on the phone while standing next to a dog.,A woman is on the phone.,yes,1,2,no,no
+"Step 1 -  A man is selling donuts to a customer.
+Step 2 - This has nothing to do with a woman drinking coffee in a small cafe.
+Step 3 - The answer is No.
+Judge the generated response:",A man selling donuts to a customer during a world exhibition event held in the city of Angeles,A woman drinks her coffee in a small cafe.,no,5,5,no,no
+"Step 1 -  A white dog with long hair is described, and it is jumping to catch an object.
+Step 2 - The answer is Yes.
+Judge the generated response:",A white dog with long hair jumps to catch a red and green toy.,An animal is jumping to catch an object.,yes,4,5,yes,no
+"Step 1 - The man stumbles because he is in rollerskates and the man in black appears to collide with him.
+Step 2 - The answer is Yes.
+Judge the generated response:",A man in a green jersey and rollerskates stumbles as a man in a black jersey appears to collide with him.,The man stumbles stumbles in rollerskates.,yes,5,5,no,no
+"Step 1 -  A group of children are not the same as a group of adults.
+Step 2 - The answer is No.
+Judge the generated response:",A group of children enjoy their time on the beach.,A group of adults are swimming at the beach.,no,5,5,no,no
+"Step 1 -  The woman is sitting outside an outdoor market stall, so the answer is No.
+Judge the generated response:",An asian woman sitting outside an outdoor market stall.,A woman sitting in an indoor market.,no,5,5,no,no
+"Step 1 - Two men on bicycles racing means they are in a competition with each other.
+Step 2 - The answer is No.
+Judge the generated response:",Two men on bicycles competing in a race.,A few people are catching fish.,no,4,5,yes,no
+"Step 1 - The premise states that a child is reaching to touch the propeller of a plane.
+Step 2 - The child is either standing on the ground or on a field of grass.
+Step 3 - The sky is blue and there are white clouds.
+Step 4 - The answer is Yes.
+Judge the generated response:","Under a blue sky with white clouds, a child reaches up to touch the propeller of a plane standing parked on a field of grass.",A child is reaching to touch the propeller of a plane.,yes,4,5,no,no
+"Step 1 -  A person with a bowler hat and high boots is usually a street performer.
+Step 2 - The answer is Yes.
+Judge the generated response:",Street performer with bowler hat and high boots performs outside.,The person is performing.,yes,3,5,no,no
+"Step 1 -  Number 916 is a person, and people can only win races if they are competing in them.
+Step 2 - The answer is Yes.
+Judge the generated response:",Number 916 is hoping that he is going to win the race.,A person is competing in a race.,yes,5,5,no,no
+"Step 1 -  A man is inside a supermarket if he is studying the shelves in a supermarket aisle.
+Step 2 - The answer is Yes.
+Judge the generated response:",A man with a shopping cart is studying the shelves in a supermarket aisle.,There is a man inside a supermarket.,yes,5,5,no,no
+"Step 1 - The answer is Yes.
+Judge the generated response:",Two men playing baseball with the one in the black and red jersey running toward base.,There is a baseball game going on.,yes,3,5,yes,no
+"Step 1 - The baby is at the end of a slip and slide, meaning the baby is wet.
+Step 2 - The answer is Yes.
+Judge the generated response:",A baby at the end of a slip and slide at a party,The baby is wet.,yes,5,5,no,no
+"Step 1 - The premise is about people, not animals, so the answer is No.
+Judge the generated response:",A lot of people walking outside a row of shops with an older man with his hands in his pocket is closer to the camera.,A lot of dogs barking outside a row of shops with a cat teasing them.,no,5,5,no,no
+"Step 1 -  The premise states that the women are sitting around a table, so the answer is Yes.
+Judge the generated response:",5 women sitting around a table doing some crafts.,Five women sit at a table.,yes,5,5,no,no
+"Step 1 - The boy is not in the sand, he is in the grass.
+Step 2 - The answer is No.
+Judge the generated response:",A young boy playing in the grass.,The boy is in the sand.,no,5,5,no,no
+"Step 1 - The two women are most likely embracing because they are either friends or family.
+Step 2 - If they were just holding packages, there would be no need for them to embrace.
+Step 3 - The answer is Yes.
+Judge the generated response:",Two women are embracing while holding to go packages.,Two woman are holding packages.,yes,4,3,yes,no
+"Step 1 -  The two farmers are not making a pool, they are two men working together.
+Step 2 - The answer is No.
+Judge the generated response:",The two farmers are working on a piece of John Deere equipment.,2 Men are making a pool together,no,5,5,no,no
+"Step 1 - Yes
+Judge the generated response:",A girl swings high in the air.,A girl is on a swing,yes,4,4,yes,no
+"Step 1 - There is more than one person in the photo, so the answer is No.
+Judge the generated response:","At an outdoor event in an Asian-themed area, a crowd congregates as one person in a yellow Chinese dragon costume confronts the camera.",A single man is next to a camera,no,5,5,no,no
+"Step 1 - The Indian woman is washing and cleaning dirty laundry at a lake, which means she is manually washing her laundry in the water.
+Step 2 - The answer is No.
+Judge the generated response:",An Indian woman is washing and cleaning dirty laundry at a lake and in the background is a kid who appears to have jumped into the lake.,An Indian woman is putting her laundry into the machine.,no,5,5,no,no
+"Step 1 -  A group of onlookers glance at a person doing a strange trick on her head means that people are watching another person do a trick.
+Step 2 - The answer is Yes.
+Judge the generated response:",A group of onlookers glance at a person doing a strange trick on her head.,People watch another person do a trick.,yes,5,5,no,no
+"Step 1 - The girl is swinging high in the air means she is not laying in the pool.
+Step 2 - The answer is No.
+Judge the generated response:",A girl swings high in the air.,A girl is laying in the pool,no,4,5,no,no
+"Step 1 -  A lady with bright orange hair walking in a crowd means a woman is near a group of people if the lady has orange hair.
+Step 2 - The answer is Yes.
+Judge the generated response:",A lady with bright orange hair walking in a crowd.,A woman is near a group of people.,yes,4,5,no,no
+"Step 1 - The premise does not mention steps leading out of a body of water, so the hypothesis is not supported by the premise.
+Judge the generated response:",Men stand on steps leading out of a body of water,Men are sitting outside near a golf course.,no,3,5,yes,no
+"Step 1 - The man in the black suit is a musician, specifically a member of a symphony.
+Step 2 - He is surrounded by other members of the symphony, so we can assume he is playing his instrument along with the rest of the group.
+Step 3 - The answer is Yes.
+Judge the generated response:","Man in a black suit, white shirt and black bowtie playing an instrument with the rest of his symphony surrounding him.",A person in a suit,yes,3,5,yes,no
+"Step 1 -  The man in the picture is wearing a black suit.
+Step 2 - The answer is No.
+Judge the generated response:","Man in a black suit, white shirt and black bowtie playing an instrument with the rest of his symphony surrounding him.",Nobody has a suit,no,5,5,no,no
+"Step 1 - The premise doesn't give us enough information to say for certain one way or the other.
+Step 2 - We don't know if the restaurant is near a bus stop, or if the man is waiting for a sandwich.
+Step 3 - The answer is Unknown.
+Judge the generated response:",A senior is waiting at the window of a restaurant that serves sandwiches.,A man is waiting in line for the bus.,no,2,5,no,no
+"Step 1 -  A man in the middle east with a corn-on-the-cob cart selling corn means that the man is selling corn-on-the-cob from a cart.
+Step 2 - The answer is Yes.
+Judge the generated response:",A man in the middle east with a corn-on-the-cob cart selling corn.,"In the middle east, a man sells corn-on-the-cob from a cart.",yes,5,5,no,no
+"Step 1 - The answer is Yes.
+Judge the generated response:",An Indian woman is washing and cleaning dirty laundry at a lake and in the background is a kid who appears to have jumped into the lake.,An Indian woman is doing her laundry in a lake.,yes,4,5,yes,no
+"Step 1 -  A small baby is being bathed by a person in blue scrubs wearing protective gloves suggests that the baby is not in its crib.
+Step 2 - The answer is No.
+Judge the generated response:","A small baby, possibly a newborn is being bathed by a person in blue scrubs wearing protective gloves.",The small baby is in it's crib sound asleep.,no,5,5,no,no
+"Step 1 -  People are not curry.
+Step 2 - The answer is No.
+Judge the generated response:",People standing in line of a beer and curry line.,People not standing in line,no,3,5,no,no
+"Step 1 -  Yes
+Judge the generated response:","A taxi SUV drives past an urban construction site, as a man walks down the street in the other direction.",An SUV and a man are going in opposite directions.,yes,4,5,yes,no
+"Step 1 -  A street performer is a person who performs in public places for gratuities.
+Step 2 - The answer is No.
+Judge the generated response:",Street performer with bowler hat and high boots performs outside.,The child is dancing inside.,no,3,5,yes,no
+"Step 1 - The answer is Yes.
+Judge the generated response:",A lot of people walking outside a row of shops with an older man with his hands in his pocket is closer to the camera.,A lot of people walking outside a row of shops with a man with hands in his pockets.,yes,3,5,yes,no
+"Step 1 -  A lady sitting on a bench that is against a building and under a poster of a man in a uniform waving.
+Step 2 - The answer is No.
+Judge the generated response:",A lady sitting on a bench that is against a building and under a poster of a man in a uniform waving.,Nobody is sitting,no,5,5,no,no
+"Step 1 - The premise and hypothesis are unrelated, so the answer is No.
+Judge the generated response:",Kids are on a amusement ride.,A car is broke down on the side of the road.,no,5,5,no,no
+"Step 1 -  Young people are playing music.
+Step 2 - The answer is No.
+Judge the generated response:",A group of young people with instruments are on stage.,Young people are playing water polo.,no,5,5,no,no
+"Step 1 - The woman is talking on the phone, so she is not sleeping.
+Step 2 - The answer is No.
+Judge the generated response:",A woman is talking on the phone while standing next to a dog.,A woman is sleeping.,no,5,5,no,no
+"Step 1 -  The answer is Yes.
+Judge the generated response:",A little boy in a blue shirt holding a toy.,Boy dressed in blue holds a toy.,yes,4,5,yes,no
+"Step 1 -  Children were looking at a bike.
+Step 2 - The answer is Yes.
+Judge the generated response:","Two black little boys hanging over an upside down bicycle, one examining the pedal.",Children were looking at a bike.,yes,5,5,no,no
+"Step 1 -  A long-beaked bird means a type of bird, ans mid-flight means it is currently flying.
+Step 2 - The answer is Yes.
+Judge the generated response:",A long-beaked bird in mid-flight.,A bird flying.,yes,5,4,no,no
+"Step 1 -  A shirtless man is singing into a microphone means the man is singing into the microphone.
+Step 2 - The answer is Yes.
+Judge the generated response:",A shirtless man is singing into a microphone while a woman next to him plays an accordion.,A man is singing into a microphone.,yes,5,5,no,no
+"Step 1 - The answer is Yes.
+Judge the generated response:",A man selling donuts to a customer during a world exhibition event held in the city of Angeles,A man selling donuts to a customer.,yes,4,5,yes,no
+"Step 1 - The two premises are unrelated, so it is impossible to say whether the hypothesis is true or false.
+Judge the generated response:",A long-beaked bird in mid-flight.,A rat running on a wheel.,no,5,5,no,no
+"Step 1 -  A man running a marathon refers to the activity of running a marathon, not the man himself.
+Step 2 - The answer is No.
+Judge the generated response:",A man running a marathon talks to his friend.,There is a man running.,yes,2,2,no,no
+"Step 1 - The premise does not provide enough information to answer the hypothesis.
+Step 2 - The answer is Unknown.
+Judge the generated response:",People wearing red shirts are standing in a large pool of water as it splashes over and around them.,A person in a shirt,yes,2,5,no,no
+"Step 1 - This is not a valid hypothesis because it does not follow from the premise.
+Step 2 - The answer is No.
+Judge the generated response:",A man in a black shirt is playing golf outside.,The man in the black shirt trades Pokemon cards with his girlfriend.,no,4,5,yes,no
+"Step 1 -  A person powerwashing stairs leading down to a pool means a person washes stairs.
+Step 2 - The answer is Yes.
+Judge the generated response:",A person powerwashing stairs leading down to a pool.,a person washes stairs,yes,5,5,no,no
+"Step 1 - The answer is No.
+Judge the generated response:","A man wearing sunglasses is sitting on the steps outside, reading a magazine.",The man is reading a spoon with the words 'HELP ME' on it.,no,4,5,yes,no
+"Step 1 -  Kids are on means they are riding.
+Step 2 - The answer is Yes.
+Judge the generated response:",Kids are on a amusement ride.,Kids ride an amusement ride.,yes,5,5,no,no
+"Step 1 -  Throwing tomatoes refers to a food fight and has nothing to do with sitting and eating.
+Step 2 - The answer is No.
+Judge the generated response:",People are throwing tomatoes at each other.,The people are sitting and eating their food.,no,5,5,no,no
+"Step 1 - This hypothesis is not related to the premise.
+Judge the generated response:","Two young boys of opposing teams play football, while wearing full protection uniforms and helmets.",dog eats out of bowl,no,4,5,yes,no
+"Step 1 -  There is no mention of a boy or a card trick.
+Step 2 - The answer is No.
+Judge the generated response:",A group of onlookers glance at a person doing a strange trick on her head.,A boy does a card trick.,no,5,5,no,no
+"Step 1 - The back of the woman is facing the observer, so it is not possible to tell what the woman is doing with the beverage.
+Step 2 - The answer is Cannot Tell.
+Judge the generated response:",A view of the back of a woman having a beverage.,woman dumps the drink on a man,no,5,5,no,no
+"Step 1 - The man is playing a guitar means that the man is wearing black.
+Step 2 - The answer is Yes.
+Judge the generated response:",A man in a black shirt is playing a guitar.,The man is wearing black.,yes,3,5,no,no
+"Step 1 - TheHypothesis is incorrect, as the scene in the picture does not depict two people selling ice cream from a car.
+Judge the generated response:",A small ice cream stand with two people standing near it.,Two people selling ice cream from a car.,no,5,5,no,no
+"Step 1 - A person is not necessarily falling off his bike just because he is riding in the sand beside the ocean.
+Step 2 - The answer is No.
+Judge the generated response:",A person rides his bicycle in the sand beside the ocean.,A person is falling off his bike.,no,5,5,no,no
+"Step 1 - The lady with bright orange hair could be a street performer, but she could also just be someone walking in a crowd.
+Step 2 - The answer is inconclusive.
+Judge the generated response:",A lady with bright orange hair walking in a crowd.,The street performer is entertaining the tourists.,no,2,3,no,no
+"Step 1 - The man is standing outside at a podium marked with the seal of the US House of Representatives, surrounded by many people, with a columned building behind him.
+Step 2 - The answer is No.
+Judge the generated response:","A white-haired man with a mustache and glasses in a business suit stands outside at a podium marked with the seal of the US House of Representatives, surrounded by many people, with a columned building behind him.",The man is sitting in a chair inside.,no,4,5,no,no
+"Step 1 -  The dogs are not swimming, they're just on the edge of the ocean with a wave under them.
+Step 2 - The boats are in the background.
+Step 3 - The answer is No.
+Judge the generated response:",A brown a dog and a black dog in the edge of the ocean with a wave under them boats are on the water in the background.,The dogs are swimming among the boats.,yes,3,5,no,yes
+"Step 1 -  The man is wearing a blue shirt.
+Step 2 - The answer is Yes.
+Judge the generated response:",A man in a blue shirt standing in front of a garage-like structure painted with geometric designs.,A man is wearing a blue shirt,yes,5,5,no,no
+"Step 1 - A woman is doing a cartwheel while wearing a bikini in the sand next to the beach means she is on the beach.
+Step 2 - The answer is No.
+Judge the generated response:",A woman is doing a cartwheel while wearing a bikini in the sand next to the beach.,A woman is fixing her home.,no,4,5,yes,no
+"Step 1 -  A man and woman are talking means a pair of people are talking.
+Step 2 - The answer is Yes.
+Judge the generated response:",A man and a woman are talking in a park,A pair of people are talking outdoors.,yes,4,5,no,no
+"Step 1 -  Yes, the girl is likely having fun learning her letters if she is playing with them on the floor.
+Judge the generated response:",Girl plays with colorful letters on the floor.,The girl is having fun learning her letters.,yes,5,5,no,no
+"Step 1 - Children in jackets usually walk to school.
+Step 2 - The answer is No.
+Judge the generated response:","Two young children in blue jerseys, one with the number 9 and one with the number 2 are standing on wooden steps in a bathroom and washing their hands in a sink.",Two kids in jackets walk to school.,no,3,4,yes,yes
+"Step 1 -  A young boy in a field of flowers carrying a ball means the boy is in a field if there are flowers around him.
+Step 2 - The answer is Yes.
+Judge the generated response:",A young boy in a field of flowers carrying a ball,boy in field,yes,4,5,no,no
+"Step 1 -  The picture is of an older gentleman doing his laundry.
+Step 2 - There are no ladies in the picture.
+Step 3 - The answer is No.
+Judge the generated response:",A older gentleman finds it humorous that he is getting his picture taken while doing his laundry.,two ladies pin clothes to dry,no,5,5,no,no
+"Step 1 -  A person sitting on a bench by a building under a poster of a man waving in a uniform.
+Step 2 - The answer is Yes.
+Judge the generated response:",A lady sitting on a bench that is against a building and under a poster of a man in a uniform waving.,A person sitting,yes,5,5,no,no
+"Step 1 -  A man wandering in the desert as the clouds roll in means that the man is lost in the desert and the clouds are a metaphor for impending danger.
+Step 2 - The answer is No.
+Judge the generated response:",A man wandering in the desert as the clouds roll in.,A man fights dead mummy's who magically came alive in the desert.,no,3,5,no,no
+"Step 1 - The premise states that two young boys are playing football while wearing full protection uniforms and helmets.
+Step 2 - This implies that they are playing football safely and responsibly.
+Step 3 - Therefore, the hypothesis that boys play football is correct.
+Judge the generated response:","Two young boys of opposing teams play football, while wearing full protection uniforms and helmets.",boys play football,yes,4,5,no,no
+"Step 1 -  The answer is No.
+Judge the generated response:",A man and a woman are looking at produce on display.,Two men throw produce at each other for fun.,no,3,5,yes,no
+"Step 1 -  The answer is No.
+Judge the generated response:",A man in a black shirt is playing a guitar.,The man is wearing a blue shirt.,no,3,5,yes,no
+"Step 1 - The Kids in Numbered Jerseys Washing Their Hands hypothesis is correct.
+Judge the generated response:","Two young children in blue jerseys, one with the number 9 and one with the number 2 are standing on wooden steps in a bathroom and washing their hands in a sink.",Two kids in numbered jerseys wash their hands.,yes,3,3,yes,no
+"Step 1 - The woman is writing something on a post-it note, which means she is not talking on the phone.
+Step 2 - The answer is No.
+Judge the generated response:",A woman is writing something on a post-it note which is hanging on a bulletin board with a lot of other post-it notes.,The woman is talking on the phone.,no,4,5,no,no
+"Step 1 -  Yes, the woman and children are sitting down.
+Judge the generated response:",Women and children sitting outside in the shade while a group of younger children sitting inside in the shade.,The woman and kids and sitting down.,yes,5,5,no,no
+"Step 1 - The answer is No.
+Judge the generated response:",5 women sitting around a table doing some crafts.,Five men stand on chairs.,no,3,5,yes,no
+"Step 1 -  A man is wearing a white t-shirt.
+Step 2 - The answer is No.
+Judge the generated response:",A man in a white t-shirt takes a picture in the middle of the street with two public buses in the background.,A man is wearing a black shirt,no,4,5,no,no
+"Step 1 - The people are throwing tomatoes at each other, which usually signifies a food fight.
+Step 2 - The answer is Yes.
+Judge the generated response:",People are throwing tomatoes at each other.,The people are having a food fight.,yes,5,5,no,no
+"Step 1 -  We cannot infer from the given information whether or not the man is chasing the SUV.
+Step 2 - The answer is We Do Not Know.
+Judge the generated response:","A taxi SUV drives past an urban construction site, as a man walks down the street in the other direction.",A man is chasing an SUV that is going in the same direction as him.,no,4,5,no,no
+"Step 1 - The people are standing in line for beer and curry, not just standing in line.
+Step 2 - The answer is No.
+Judge the generated response:",People standing in line of a beer and curry line.,People standing in line,yes,2,5,no,no
+"Step 1 - This premise does not provide enough information to determine whether the hypothesis is correct or not.
+Step 2 - The answer is Insufficient information.
+Judge the generated response:",A little boy in a blue shirt holding a toy.,Boy dressed in red lighting things on fire.,no,2,5,no,no
+"Step 1 -  The woman is sitting outside at a market stall, so the answer is yes.
+Judge the generated response:",An asian woman sitting outside an outdoor market stall.,A woman sits outdoors.,yes,5,5,no,no
+"Step 1 -  She is weaving a piece of cloth, so she is working with cloth.
+Step 2 - The answer is Yes.
+Judge the generated response:","A woman sitting outside weaving a long piece of red, white, and blue cloth.",She is working with cloth,yes,5,5,no,no
+"Step 1 -  The two farmers are working on a piece of John Deere equipment.
+Step 2 - The answer is Yes.
+Judge the generated response:",The two farmers are working on a piece of John Deere equipment.,John Deere equipment is being worked on by two farmers,yes,5,5,no,no
+"Step 1 - A group of people prepare hot air balloons for takeoff means a group of people are preparing for a hot air balloon race.
+Step 2 - The answer is No.
+Judge the generated response:",A group of people prepare hot air balloons for takeoff.,A group of people prepare cars for racing.,no,3,5,no,no
+"Step 1 - No, they are playing hockey.
+Judge the generated response:",A man in a green jersey and rollerskates stumbles as a man in a black jersey appears to collide with him.,They are driving cars.,no,4,5,no,no
+"Step 1 - The answer is Yes.
+Judge the generated response:",The two farmers are working on a piece of John Deere equipment.,Men are working on John Deere equipment,yes,4,5,yes,no

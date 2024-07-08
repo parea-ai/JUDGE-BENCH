@@ -1,0 +1,71 @@
+output,situation_premise,claim_hypothesis,correct_relationship,Overall Quality,Coherency,Missing Steps,Contradiction
+"Step 1 -  A group of people are preparing hot air balloons for takeoff.
+Step 2 - The answer is Yes.
+Judge the generated response:",A group of people prepare hot air balloons for takeoff.,A group of people are outside.,yes,4,5,yes,no
+"Step 1 -  The people are standing in the water and their red shirts are soaked and sticking to their bodies.
+Step 2 - The answer is Yes.
+Judge the generated response:",People wearing red shirts are standing in a large pool of water as it splashes over and around them.,Nobody has a shirt on,no,3,5,yes,no
+"Step 1 -  Pets are on the grass with a boat in the background means that they are sleeping on the grass near the ocean.
+Step 2 - The answer is Yes.
+Judge the generated response:",A brown a dog and a black dog in the edge of the ocean with a wave under them boats are on the water in the background.,The pets are sleeping on the grass.,no,3,4,yes,no
+"Step 1 - The premise is that families are waiting in line at an amusement park, so the answer is no.
+Judge the generated response:",Families waiting in line at an amusement park for their turn to ride.,People are waiting to see a movie.,no,4,5,yes,no
+"Step 1 -  A pregnant lady singing on stage while holding a flag behind her is making music.
+Step 2 - The answer is Yes.
+Judge the generated response:",A pregnant lady singing on stage while holding a flag behind her.,A woman is making music.,yes,4,4,no,no
+"Step 1 - The children are enjoying their time means they are at the beach.
+Step 2 - The answer is Yes.
+Judge the generated response:",A group of children enjoy their time on the beach.,Children are at the beach.,yes,5,5,no,no
+"Step 1 -  The men are most likely making something to eat since they are cooking together.
+Step 2 - The answer is Yes.
+Judge the generated response:",Two men are cooking food together on the corner of the street.,The men are making something to eat.,yes,5,5,no,no
+"Step 1 -  The older gentleman is probably laughing at the situation because it is unusual for someone to be getting their picture taken while doing a mundane task like laundry.
+Step 2 - The answer is Yes.
+Judge the generated response:",A older gentleman finds it humorous that he is getting his picture taken while doing his laundry.,a guy laughs while doing laundry,yes,4,5,no,no
+"Step 1 -  The boy is barefoot and is reaching the top of a small skateboarding ramp which means he is probably trying to skate.
+Step 2 - The answer is No.
+Judge the generated response:",A barefooted adolescent boy in a yellow shirt reaching the top of a small skateboarding ramp.,the boy is flying a helicopter,no,4,5,yes,no
+"Step 1 - Two women are embracing while holding to go packages means they are friends or family.
+Step 2 - They are not fighting.
+Step 3 - The answer is No.
+Judge the generated response:",Two women are embracing while holding to go packages.,The men are fighting outside a deli.,no,2,2,yes,yes
+"Step 1 - The man is playing an accordion and the woman is playing a saxophone.
+Step 2 - The answer is No.
+Judge the generated response:",A shirtless man is singing into a microphone while a woman next to him plays an accordion.,He is playing a saxophone.,no,3,5,no,yes
+"Step 1 - The two men are not running in a race, they are cooking food on the corner of the street.
+Step 2 - The answer is No.
+Judge the generated response:",Two men are cooking food together on the corner of the street.,The two men are running in a race.,no,5,5,no,no
+"Step 1 -  The answer is Yes.
+Judge the generated response:","Colorfully dressed people walk down the center of the road, with onlookers behind a barricade.",A group of people walking down a road.,yes,3,5,yes,no
+"Step 1 - The man might be playing a song or he might not.
+Step 2 - There is not enough information to answer the question.
+Judge the generated response:",A man in a black shirt is playing a guitar.,He is playing a song.,yes,5,5,no,no
+"Step 1 - The answer is Yes.
+Judge the generated response:",A man and a woman are looking at produce on display.,A man and woman are looking at produce.,yes,3,5,yes,no
+"Step 1 - Two black little boys hanging over an upside down bicycle, one examining the pedal means that someone was riding the bike and then fell off, and the boys are now examining the pedal.
+Step 2 - The answer is Yes.
+Judge the generated response:","Two black little boys hanging over an upside down bicycle, one examining the pedal.",Someone is riding a bike.,no,2,4,no,no
+"Step 1 - The man is studying the shelves in a supermarket aisle, so he is likely looking for something to buy.
+Step 2 - The answer is No.
+Judge the generated response:",A man with a shopping cart is studying the shelves in a supermarket aisle.,A man is watching a movie in a theater.,no,4,5,yes,no
+"Step 1 -  A man and a woman are talking in a park.
+Step 2 - The answer is No.
+Judge the generated response:",A man and a woman are talking in a park,A man and woman are talking in the aquarium.,no,4,5,no,no
+"Step 1 - One has nothing to do with the other.
+Step 2 - The answer is No.
+Judge the generated response:",An older gentleman enjoys a scenic stroll through the countryside.,A pirate boards the spaceship.,no,5,5,no,no
+"Step 1 - The premise only mentions families waiting in line, not what they are waiting in line for.
+Step 2 - It is possible that they are waiting in line for a restaurant, but it is not stated in the premise.
+Step 3 - Therefore, the answer is No.
+Judge the generated response:",Families waiting in line at an amusement park for their turn to ride.,People are waiting in line at a restaurant.,no,3,5,no,no
+"Step 1 - The woman is having a drink (presumably alcoholic, given the context of the picture), so the answer is Yes.
+Judge the generated response:",A view of the back of a woman having a beverage.,woman has a drink,yes,4,5,no,no
+"Step 1 -  The young boy is holding a camera.
+Step 2 - The answer is Yes.
+Judge the generated response:",Three young boys one is holding a camera and another is holding a green toy all are wearing t-shirt and smiling.,The young boy has a camera.,yes,5,5,no,no
+"Step 1 - No, the woman is not doing a cartwheel and falling on her head.
+Judge the generated response:",A woman is doing a cartwheel while wearing a bikini in the sand next to the beach.,A woman is doing a cartwheel and falls on her head.,no,5,5,no,no
+"Step 1 -  Yes
+Judge the generated response:",Men stand on steps leading out of a body of water,Men are standing on some steps near some water.,yes,3,5,yes,no
+"Step 1 -  No, this is a parade.
+Judge the generated response:","Colorfully dressed people walk down the center of the road, with onlookers behind a barricade.",A group of people in a motorcade driving past an audience.,no,4,5,no,no
